@@ -5,12 +5,7 @@ PrivateBlog is a simple blogging platform that emphasizes backend functionality 
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/AmitBiradar1202/PrivateBlog.git
-```
-
+Clone the pr
 Go to the project directory
 
 ```bash
